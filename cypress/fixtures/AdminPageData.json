@@ -1,0 +1,6 @@
+{
+    "expectedCountOfTabs" : 7,
+    "userToBeSaeched": "Admin",
+    "expectedHedaer" : "Employee Name",
+    "expectedHedaerValue" : "Admin Dashboard"
+}

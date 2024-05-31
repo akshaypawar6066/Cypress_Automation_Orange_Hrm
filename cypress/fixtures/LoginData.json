@@ -1,0 +1,8 @@
+{
+"CorrectUsername": "Admin",
+"CorrectPassword": "admin123",
+"expectedHomePageUrl" : "dashboard/index",
+"IncorectUsername": "ABC",
+"incorrectPaddword": "Test@321",
+"expectedErrorMessage": "Invalid credentials"
+}

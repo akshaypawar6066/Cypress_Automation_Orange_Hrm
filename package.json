@@ -1,0 +1,17 @@
+{
+  "name": "cypressautomationframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "OpenCypressUI": "npx cypress open",
+    "RunSpecFiles" : "npx cypress run"
+  },
+  "author": "Akshay",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.10.0",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "cypress-xpath": "^2.0.1"
+  }
+}
