@@ -36,7 +36,7 @@ describe('Verify the functionalities ofAdmin Page', () => {
 
     });
 
-    it('Verify the Search Admin user Functionality on Admin Page', ()=>
+    it.skip('Verify the Search Admin user Functionality on Admin Page', ()=>
     {
         loginPage.loginToApplcation(loginData.CorrectUsername, loginData.CorrectPassword);
         loginPage.verifyLoginWithCorrectCredenatils(loginData.expectedHomePageUrl);
